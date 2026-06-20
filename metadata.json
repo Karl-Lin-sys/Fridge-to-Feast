@@ -1,0 +1,6 @@
+{
+  "name": "Fridge to Feast",
+  "description": "Smart Fridge & Culinary Assistant that analyzes images of ingredients and provides step-by-step recipes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
